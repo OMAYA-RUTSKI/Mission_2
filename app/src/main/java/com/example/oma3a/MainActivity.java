@@ -13,8 +13,6 @@ public class MainActivity extends AppCompatActivity {
     private EditText nameEditText, birthYearEditText;
     private Button showDetailsButton;
 
-
-    //fhmjfjh,tgfjmh
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
